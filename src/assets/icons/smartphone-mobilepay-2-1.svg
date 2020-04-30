@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 443.9 701.2" style="enable-background:new 0 0 443.9 701.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#E6E6E6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#F2F2F2;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{fill:#D8D8DC;}
+	.st5{fill:#D9D9DC;}
+	.st6{fill: #f7f7f7;enable-background:new;}
+	.st7{fill:#000;enable-background:new    ;}
+	.st8{font-family:'Arial-BoldMT';}
+	.st9{font-size:12px;}
+	.st10{fill: #29d9c2;enable-background:new;}
+	.st11{fill:#FFFFFF;enable-background:new    ;}
+	.st12{fill: #03a9f4;enable-background:new;}
+</style>
+<g>
+	
+		<image style="overflow:visible;enable-background:new    ;" width="48" height="48" xlink:href="41FEEEC238A965C9.png"  transform="matrix(1 0 0 1 147 589)">
+	</image>
+</g>
+<title>smartphone-mobilepay</title>
+<g>
+	<g id="Layer_2">
+		<g id="Layer_1-2">
+			<path class="st0" d="M31.6,563.5l99.9-491c5.6-27.4,32.4-45.2,59.8-39.6l183.1,37.2c27.4,5.6,45.2,32.4,39.6,59.8l-99.9,491
+				c-5.6,27.4-32.4,45.2-59.8,39.6L71.2,623.3C43.8,617.7,26,591,31.6,563.5z"/>
+			<path class="st1" d="M31.6,563.5l99.9-491c5.6-27.4,32.4-45.2,59.8-39.6l183.1,37.2c27.4,5.6,45.2,32.4,39.6,59.8l-99.9,491
+				c-5.6,27.4-32.4,45.2-59.8,39.6L71.2,623.3C43.8,617.7,26,591,31.6,563.5z"/>
+			<path class="st2" d="M31.6,563.5l99.9-491c5.6-27.4,32.4-45.2,59.8-39.6l183.1,37.2c27.4,5.6,45.2,32.4,39.6,59.8l-99.9,491
+				c-5.6,27.4-32.4,45.2-59.8,39.6L71.2,623.3C43.8,617.7,26,591,31.6,563.5z"/>
+			
+				<rect x="-21.1" y="213" transform="matrix(0.2023 -0.9793 0.9793 0.2023 -166.0568 497.6933)" class="st3" width="487" height="275.5"/>
+			<ellipse class="st4" cx="171" cy="613" rx="21" ry="21.1"/>
+			<g>
+				<g>
+					<ellipse class="st5" cx="171" cy="613" rx="21" ry="21.1"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<rect x="89.8" y="149.3" transform="matrix(0.98 0.1992 -0.1992 0.98 77.3838 -36.6081)" class="st6" width="261.7" height="434"/>
+<rect x="246.3" y="70.5" transform="matrix(0.1992 -0.98 0.98 0.1992 6.2036 410.2871)" class="st3" width="15.7" height="261.7"/>
+<text transform="matrix(0.98 0.1992 -0.1992 0.98 197.4535 190.598)" class="st7 st8 st9">Payment successful</text>
+<rect x="107.8" y="411.4" transform="matrix(0.98 0.1992 -0.1992 0.98 88.8499 -32.9256)" class="st10" width="200.5" height="27.5"/>
+<rect x="198.8" y="297.3" transform="matrix(0.1992 -0.98 0.98 0.1992 -254.0052 545.3342)" class="st3" width="15.7" height="261.7"/>
+<text transform="matrix(0.98 0.1992 -0.1992 0.98 181.044 423.6486)" class="st11 st8 st9">Continue</text>
+<path class="st12" d="M383.3,172.9l-236.2-49.5c-5.4-1.1-8.9-6.4-7.7-11.8l5.3-25.1c1.1-5.4,6.4-8.9,11.8-7.7l236.2,49.5
+	c5.4,1.1,8.9,6.4,7.7,11.8l-5.3,25.1C394,170.6,388.7,174,383.3,172.9z"/>
+<rect x="136.7" y="115.1" transform="matrix(0.9787 0.2052 -0.2052 0.9787 33.9886 -51.9247)" class="st12" width="261.3" height="45.6"/>
+<rect x="257.3" y="6.6" transform="matrix(0.1992 -0.98 0.98 0.1992 77.6366 369.8065)" class="st3" width="15.7" height="261.7"/>
+<text transform="matrix(0.98 0.1992 -0.1992 0.98 240.4296 133.1611)" class="st6 st8 st9">Payment</text>
+<ellipse transform="matrix(0.1323 -0.9912 0.9912 0.1323 -102.6076 503.0274)" class="st10" cx="236" cy="310.1" rx="71.2" ry="71.2"/>
+<path class="st0" d="M276.1,294.7c-1-4.3-4.4-4.1-8-3.9c-2.2,0.2-11.9,1.7-28.8,15.3c-7,5.7-11.8,10.3-15,13.9
+	c-1.4-2.2-3-4.6-4.7-6.8c-5.2-6.9-11.4-11.9-11.7-12.1c-2.6-2.1-6.4-1.7-8.5,0.9c-2.1,2.6-1.7,6.4,0.9,8.5c0.1,0,5.4,4.4,9.7,10.1
+	c4.4,5.8,8.1,13.3,8.2,13.4c0.9,1.8,2.7,3.1,4.6,3.3c0.3,0,0.7,0.1,1,0c2.4-0.1,4.5-1.6,5.4-3.8c0-0.1,3.3-6.3,17.6-17.9
+	c11.6-9.3,18.8-11.8,21.3-12.5c0,0,0,0,0.1,0c0,0,0.1,0,0.2-0.1c0.4-0.1,0.6-0.1,0.7-0.1c-0.1,0-0.2,0-0.2,0l0,0
+	c1.1-0.3,3.3-0.9,3.3-0.9C275.5,301.1,276.9,297.9,276.1,294.7z"/>
+</svg>
